@@ -8,11 +8,11 @@ A lightweight addon that shows a **PNG zone banner** when you zone in.
 
 ## Demo
 
-**Video:** See `docs/zonebanners-demo.mp4` (best viewed on GitHub as an uploaded “asset” link — instructions below).
+**Video:** (https://github.com/user-attachments/assets/9f0f3609-2e26-4974-97dd-7494a35626a0)
 
 ![ZoneBanners demo screenshot](docs/demo-thumb.png)
 
-### Getting the video to play on GitHub (recommended)
+
 GitHub README files don’t reliably embed local `.mp4` files inline. The most reliable way is:
 
 1. Open your repo on GitHub.
